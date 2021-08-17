@@ -1,0 +1,6 @@
+python-dotenv
+mmpy_bot
+schedule
+requests
+DateTime
+python-time
