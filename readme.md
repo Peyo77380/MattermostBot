@@ -7,12 +7,12 @@ Periodiccaly send scheduled messages from CSV file.
 You need to add your settings in .env file. Weather API should be a OpenWeather Token
 
 ### Python Librairies
-- dotenv : pip install python-dotenv
-- mmpy_bot : pip install -U mmpy_bot
-- schedule : pip install schedule
-- requests : pip install requests
-- datetime : pip install DateTime
-- time : pip install python-time
+- dotenv : `pip install python-dotenv`
+- mmpy_bot : `pip install -U mmpy_bot`
+- schedule : `pip install schedule`
+- requests : `pip install requests`
+- datetime : `pip install DateTime`
+- time : `pip install python-time`
 
 ### Change schedules messages
 Everything is set in scheduledMessages.csv
